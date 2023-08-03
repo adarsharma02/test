@@ -1,0 +1,13 @@
+h1{
+    text-decoration:underline;color: aqua;
+    text-align: center;
+}
+ #submit-btn{display: block;
+    background: rgb(24, 24, 12);
+    color: white;
+    padding: 20px;
+    text-align: center;
+    width: 100px;
+    margin: auto;
+    
+ }
